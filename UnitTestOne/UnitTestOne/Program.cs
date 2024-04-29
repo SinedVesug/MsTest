@@ -2,7 +2,7 @@
 
 namespace UnitTestOne
 {
-    public static class TestWorkFromDB
+    public static class WorkFromDB
     {
         public static string AddEntrySQLRequest(string table, string id, string name, string work)
         {

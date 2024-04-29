@@ -12,3 +12,18 @@ C:\Users\den-g\OneDrive\Рабочий стол\Лекции\3 курс\Учеб
 C:\Users\den-g\OneDrive\Рабочий стол\Лекции\3 курс\Учебная практика начало 2 семестра\Задание 8-9\UnitTestOne\UnitTestOne\obj\Debug\net8.0\UnitTestOne.pdb
 C:\Users\den-g\OneDrive\Рабочий стол\Лекции\3 курс\Учебная практика начало 2 семестра\Задание 8-9\UnitTestOne\UnitTestOne\obj\Debug\net8.0\UnitTestOne.genruntimeconfig.cache
 C:\Users\den-g\OneDrive\Рабочий стол\Лекции\3 курс\Учебная практика начало 2 семестра\Задание 8-9\UnitTestOne\UnitTestOne\obj\Debug\net8.0\ref\UnitTestOne.dll
+C:\Users\den-g\MsTest\UnitTestOne\UnitTestOne\bin\Debug\net8.0\UnitTestOne.exe
+C:\Users\den-g\MsTest\UnitTestOne\UnitTestOne\bin\Debug\net8.0\UnitTestOne.deps.json
+C:\Users\den-g\MsTest\UnitTestOne\UnitTestOne\bin\Debug\net8.0\UnitTestOne.runtimeconfig.json
+C:\Users\den-g\MsTest\UnitTestOne\UnitTestOne\bin\Debug\net8.0\UnitTestOne.dll
+C:\Users\den-g\MsTest\UnitTestOne\UnitTestOne\bin\Debug\net8.0\UnitTestOne.pdb
+C:\Users\den-g\MsTest\UnitTestOne\UnitTestOne\obj\Debug\net8.0\UnitTestOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\den-g\MsTest\UnitTestOne\UnitTestOne\obj\Debug\net8.0\UnitTestOne.AssemblyInfoInputs.cache
+C:\Users\den-g\MsTest\UnitTestOne\UnitTestOne\obj\Debug\net8.0\UnitTestOne.AssemblyInfo.cs
+C:\Users\den-g\MsTest\UnitTestOne\UnitTestOne\obj\Debug\net8.0\UnitTestOne.csproj.CoreCompileInputs.cache
+C:\Users\den-g\MsTest\UnitTestOne\UnitTestOne\obj\Debug\net8.0\UnitTestOne.sourcelink.json
+C:\Users\den-g\MsTest\UnitTestOne\UnitTestOne\obj\Debug\net8.0\UnitTestOne.dll
+C:\Users\den-g\MsTest\UnitTestOne\UnitTestOne\obj\Debug\net8.0\refint\UnitTestOne.dll
+C:\Users\den-g\MsTest\UnitTestOne\UnitTestOne\obj\Debug\net8.0\UnitTestOne.pdb
+C:\Users\den-g\MsTest\UnitTestOne\UnitTestOne\obj\Debug\net8.0\UnitTestOne.genruntimeconfig.cache
+C:\Users\den-g\MsTest\UnitTestOne\UnitTestOne\obj\Debug\net8.0\ref\UnitTestOne.dll
